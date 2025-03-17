@@ -11,5 +11,6 @@ import { FormsModule } from '@angular/forms';
 })
 export class AppComponent {
   title = 'practice-Component-Interaction';
+  
   parentText:string = '';
 }
